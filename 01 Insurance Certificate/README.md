@@ -1,0 +1,2 @@
+# Insurance Certificate Generation
+a.	Insurance certificate to Secure Shipped Cargo: Tools used include D365 Business Central, Developed APIs using AL with Visual Studio Code and Microsoft Power Automate for automated flows. Notifications and communications were handled using Power Automate and M365 Cloud Suite of applications. Automation saved 300 man-hours work per month, turn-around time reduced from 24 hours to 30 seconds.

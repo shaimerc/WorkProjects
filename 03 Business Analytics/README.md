@@ -1,0 +1,2 @@
+# Business Analytics
+a.	Business Analytics Reports using Power BI: Developed business analytics for C-suite, Finance, Business Heads and Sales Team. Reports fetched information from D365 Business Central and other data sources to give insights on business. Tools used: D365 Business Central as data source, Developed API  using AL code for authorization and data extraction, Power BI Desktop and Power BI Service. 
